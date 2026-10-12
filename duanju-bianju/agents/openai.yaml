@@ -1,0 +1,6 @@
+interface:
+  display_name: "中文短剧编剧"
+  short_description: "以白皮书为首要依据，贯通选材、分集创作、编剧把控与合规核查"
+  default_prompt: "请使用 $duanju-bianju，按照选材→集数确定→创作→修改→编剧把控→创作修改→定稿的流程，协助我创作一部中文短剧。"
+policy:
+  allow_implicit_invocation: true

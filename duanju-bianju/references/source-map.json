@@ -1,0 +1,183 @@
+{
+  "created": "2026-10-12",
+  "timezone": "Asia/Hong_Kong",
+  "note": "为用户本地创作整理；无上传原书。原书目录已提取，相关正文为针对性阅读，不声称全书通读。常规使用读取技能内提炼；仅需核对原文时才访问可用的原文件。",
+  "whitepaper": {
+    "name": "短剧编剧白皮书.docx",
+    "sha256": "78e174efd0337216e6743a6cee82c56b66cf9cc65aefe57bb74ce7ea2ff986ec",
+    "included_paragraphs": "P048-P590 and P622",
+    "excluded": "AI产品介绍、模块14合同稿酬分成等商业内容",
+    "local_reference": "whitepaper-creative.md"
+  },
+  "books": [
+    {
+      "name": "剧本：影视写作的艺术、技巧和商业运作 (理查德·沃尔特) (z-library.sk, 1lib.sk, z-lib.sk).epub",
+      "sha256": "b27e50fe5ee4eb73610a5d3746a0ac532594afc225dadb6465b0afdbb193f003",
+      "key": "walter",
+      "reading_scope": "目录与相关章节的针对性读取",
+      "core_locations": [
+        {
+          "href": "OEBPS/Text/Chapter_0005.xhtml",
+          "label": [
+            "Chapter 5",
+            "冲突：暴力与性",
+            "电影中必须要有性吗？必须充斥暴力吗？"
+          ]
+        },
+        {
+          "href": "OEBPS/Text/Chapter_0008.xhtml",
+          "label": [
+            "Chapter 8",
+            "角色",
+            "要为观众创造出有价值的电影角色，需要遵守三个基本原则："
+          ]
+        },
+        {
+          "href": "OEBPS/Text/Chapter_0010.xhtml",
+          "label": [
+            "Chapter 10",
+            "动作与场景设置",
+            "“戏剧”（drama）一词源于希腊文，原意是“动作，行动”。"
+          ]
+        },
+        {
+          "href": "OEBPS/Text/Chapter_0011.xhtml",
+          "label": [
+            "Chapter 11",
+            "格式",
+            "与编织一个有着精彩人物、犀利对白的好故事相比，给剧本安排合适专业的格式比系鞋带还容易。"
+          ]
+        },
+        {
+          "href": "OEBPS/Text/Chapter_0011_0003.xhtml",
+          "label": [
+            "数字：页码，稿次，日期，场景号",
+            "当然，编剧应该在剧本上标页码。但是，他不应该标明稿次、给场景编号，也不应该在任何地方——封面、扉页或别的地方——提及写作日期。",
+            "1.页码"
+          ]
+        }
+      ],
+      "local_reference": "craft-library.md"
+    },
+    {
+      "name": "对白：文字、舞台、银幕的言语行为艺术(“编剧教父”罗伯特·麦基时隔二十年再创经典，横跨影视、戏剧、文学领域，透析对白创作本质) (罗伯特·... (z-library.sk, 1lib.sk, z-lib.sk).epub",
+      "sha256": "062a5431e2f2c4e80b66b273cdc865435f60ba09e4019388922ac5a83d2b3c9e",
+      "key": "dialogue",
+      "reading_scope": "目录与相关章节的针对性读取",
+      "core_locations": [
+        {
+          "href": "text/part0010.html",
+          "label": [
+            "未知",
+            "◎ 解说",
+            "解说是一个艺术术语，命名了设定、历史和角色等虚构现实，那些读者／观众需要在某些时间点吸收的信息，好让他们能跟上故事，沉浸在即将发生的结果里。要在故事讲述中植入解说，作家只能从两种方式中"
+          ]
+        },
+        {
+          "href": "text/part0018.html",
+          "label": [
+            "未知",
+            "引言：六项对白任务",
+            "有效的对白能同时执行六项任务："
+          ]
+        },
+        {
+          "href": "text/part0029.html",
+          "label": [
+            "未知",
+            "◎ 两种才华",
+            "创作性写作需要两种才华：故事的才华，文学的才华。前者将每日的生活变成有意义、有感情的事件和角色，雕塑作品的深度设计——谁，发生了什么——建立生活的隐喻。后者将每日的言语化为表达性的"
+          ]
+        },
+        {
+          "href": "text/part0034.html",
+          "label": [
+            "未知",
+            "我们经常看到有毛病的故事浪费着让人惊讶的好对白。坏故事中坏对白常有，但很少有好故事会被烂对白浪费。原因很简单，好的故事会激发好的对白。",
+            "坏的对白仿佛感冒发热，是自故事深处受到了感染。但因为奋斗中"
+          ]
+        }
+      ],
+      "local_reference": "craft-library.md"
+    },
+    {
+      "name": "救猫咪：电影编剧指南（畅销好莱坞15年的编剧实战秘籍，与《故事》《电影剧本写作基础》并称“编剧三宝”。专业译者全新翻译） (布莱克·斯奈... (z-library.sk, 1lib.sk, z-lib.sk).epub",
+      "sha256": "8abe1d05ee6fd66fce2bb05102afd955e489dc06ac49dc73b632424a28f798a8",
+      "key": "save-cat",
+      "reading_scope": "目录与相关章节的针对性读取",
+      "core_locations": [
+        {
+          "href": "text/part0007.html",
+          "label": [
+            "未知",
+            "有没有反讽？",
+            "Isn't It Ironic"
+          ]
+        },
+        {
+          "href": "text/part0050.html",
+          "label": [
+            "未知",
+            "玩闹和游戏（30—35）",
+            "Fun and Games (30—35)"
+          ]
+        },
+        {
+          "href": "text/part0068.html",
+          "label": [
+            "未知",
+            "+/-和><",
+            "现在你的板子上已经钉着40张卡片了，你很确定你的故事将要这样发展，觉得这项工作已经完事儿了，但其实并没有。在开始写剧本之前，你还得把两个特别重要的东西写在所有的卡片上："
+          ]
+        },
+        {
+          "href": "text/part0086.html",
+          "label": [
+            "未知",
+            "主角要主动",
+            "The Hero Leads"
+          ]
+        }
+      ],
+      "local_reference": "craft-library.md"
+    }
+  ],
+  "images": [
+    {
+      "name": "codex-clipboard-5ca4a576-df70-4edd-b2fc-ae276626501d.png",
+      "sha256": "68efcd289d6341dab89acf4b3f1cc3cdff6f7a553a0b849e99a128aee1bb7bbc",
+      "image_number": 1,
+      "local_reference": "story-models.md"
+    },
+    {
+      "name": "codex-clipboard-b15b2b74-52b7-4220-8409-83385c042732.png",
+      "sha256": "3e5d5cbc36001c8e41f521765571dcf477e7f4d40af3477774181cc8826e9240",
+      "image_number": 2,
+      "local_reference": "story-models.md"
+    },
+    {
+      "name": "codex-clipboard-8b600850-b9a8-4160-9582-b17bf1b92222.png",
+      "sha256": "7e7553f857b6f150dc08141aa17464a76204182d7fce2fa73150ce0508c37764",
+      "image_number": 3,
+      "local_reference": "story-models.md"
+    },
+    {
+      "name": "codex-clipboard-59ad2199-675f-4c54-bd3c-dd77b875efb4.png",
+      "sha256": "c812855dda3a7ae320f0d8e33cb9e65061646e91e9df26efd1cc2d92507cb2fb",
+      "image_number": 4,
+      "local_reference": "story-models.md"
+    },
+    {
+      "name": "codex-clipboard-bb3c82cd-423e-478f-af31-78564a9415cd.png",
+      "sha256": "8f24353ec80d619d4a5d5cec465ef8ddb4cda7e117a14d28e8324af3174ecd72",
+      "image_number": 5,
+      "local_reference": "story-models.md"
+    },
+    {
+      "name": "codex-clipboard-f96f6942-f1f5-4718-91d8-2ea813a3cbe5.png",
+      "sha256": "bf9d3720339bbc9d25389df0a4a2a0d7883532b8081ee7d1445a64b5177c1e67",
+      "image_number": 6,
+      "local_reference": "story-models.md"
+    }
+  ]
+}
