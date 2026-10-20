@@ -1,0 +1,6 @@
+interface:
+  display_name: "英文短剧编剧"
+  short_description: "面向北美短剧，先写中文供编剧修改，再打磨英文对白，强化开场钩子、连续性与修稿"
+  default_prompt: "请使用 $english-short-drama，按选材→集数确定→创作→修改→编剧把控→创作修改→定稿开发面向北美的短剧，先交中文开发稿，收到我的修改稿后再重写英文对白，并检查3—5秒开场、钩子兑现与全剧连续性。"
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,47 @@
+{
+  "skill": "english-short-drama",
+  "purpose": "Public web references supporting market, format, and legal-research guidance.",
+  "verification_policy": "Recheck time-sensitive platform, market, and law claims before use.",
+  "web_sources": [
+    {
+      "url": "https://fountain.io/syntax/",
+      "role": "English screenplay syntax reference",
+      "checked": "2026-10-14"
+    },
+    {
+      "url": "https://www.oscars.org/sites/oscars/files/scriptsample.pdf",
+      "role": "Screenplay format example; not a short-drama platform specification",
+      "checked": "2026-10-14"
+    },
+    {
+      "url": "https://www.reelshort.com/en",
+      "role": "Market research entry point; direct access limited",
+      "checked": "2026-10-14"
+    },
+    {
+      "url": "https://www.dramabox.com/browse/201",
+      "role": "Catalog entry point; direct access limited",
+      "checked": "2026-10-14"
+    },
+    {
+      "url": "https://www.copyright.gov/help/faq/faq-fairuse.html",
+      "role": "U.S. copyright research",
+      "checked": "2026-10-14"
+    },
+    {
+      "url": "https://www.copyright.gov/fair-use/",
+      "role": "U.S. fair-use research",
+      "checked": "2026-10-14"
+    },
+    {
+      "url": "https://laws-lois.justice.gc.ca/eng/acts/C-42/section-29.html",
+      "role": "Canadian copyright research",
+      "checked": "2026-10-14"
+    },
+    {
+      "url": "https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking",
+      "role": "U.S. endorsement disclosure research when relevant",
+      "checked": "2026-10-14"
+    }
+  ]
+}
